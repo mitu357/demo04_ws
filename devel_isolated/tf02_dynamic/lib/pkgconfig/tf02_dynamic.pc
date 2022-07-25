@@ -1,0 +1,8 @@
+prefix=/home/zhuwencheng/demo04_ws/devel_isolated/tf02_dynamic
+
+Name: tf02_dynamic
+Description: Description of tf02_dynamic
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 
